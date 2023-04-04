@@ -1,0 +1,32 @@
+.oferta-item>img {
+    transition: 0.4s transform;
+}
+
+.oferta-item:hover>img {
+
+    transform: scale(0.96);
+
+}
+
+.altura-img-oferta{
+    height: 690px;
+}
+
+.oferta-img-grande{
+    object-fit: cover;
+    height: 100%;
+}
+
+.oferta-img-chica{
+    object-fit: cover;
+    height: 30%;
+}
+
+.img-medio{
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
+
+.bg-oferta{
+    background-color: var(--color-SecundarioFuerte);
+}

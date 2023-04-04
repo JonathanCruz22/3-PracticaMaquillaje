@@ -1,0 +1,13 @@
+.Tamano-tarjeta {
+    width: 250px;
+    margin: auto;
+}
+
+.tar-img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.bg-targeta{
+    background-color: var(--color-primarioFuerte);
+}

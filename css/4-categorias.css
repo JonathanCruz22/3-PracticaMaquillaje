@@ -1,0 +1,8 @@
+.bg-categorias{
+    background-color: var(--color-SecundarioFuerte);
+}
+
+.img-categorias {
+    width: 250px;
+    height: 250px;
+}

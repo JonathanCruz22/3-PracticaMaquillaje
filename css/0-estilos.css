@@ -1,0 +1,42 @@
+@import url(./1-header.css);
+@import url(./2-novedades.css);
+@import url(./3-ofertas.css);
+@import url(./4-categorias.css);
+@import url(./5-marcas.css);
+@import url(./6-footer.css);
+
+:root {
+
+    --color-primarioFuerte: #FFFFFF;
+    --color-primarioClaro: #C6B6AF;
+    --color-SecundarioFuerte: #EFC8C3;
+    --color-SecundarioClaro: #A6A7A9;
+
+}
+
+body{
+
+    background-color: #F4F4F4;
+
+}
+
+.container > .row {
+    margin-bottom: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.colorPrimarioFuerte {
+    color: var(--color-primarioFuerte);
+}
+
+h2{
+    color: var(--color-SecundarioClaro);
+}
+
+h3{
+    color: var(--color-SecundarioFuerte);
+}

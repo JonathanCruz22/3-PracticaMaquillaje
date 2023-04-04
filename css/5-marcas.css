@@ -1,0 +1,7 @@
+.marca{
+    text-shadow: 1px -2px 3px #000000;
+}
+
+.borde-marca{
+    border-right: 2px solid black;
+}
